@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+date: 2024-10-28 20:36:00 +0000
 ---
 
 # bpkroth blog

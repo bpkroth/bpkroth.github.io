@@ -31,8 +31,15 @@ github_username:  bpkroth
 #theme: minima
 theme: just-the-docs
 color_scheme: dark
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/bpkroth/bpkroth.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
