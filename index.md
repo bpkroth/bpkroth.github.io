@@ -18,7 +18,11 @@ I'm using this site to host little blog articles on technie related things and w
   
   Categories: {{ post.categories | join: ', ' }}
 
-  {{ post.content | strip_html | markdownify | truncatewords: 50 }}
+  Date: {{ post.date | date: "%Y-%m-%d" }}
+
+  Summary:
+
+  > {{ post.content | strip_html | markdownify | truncatewords: 50 }}
 {% endfor %}
 
 - [More Posts ...]({{ site.baseurl }}/categories/)
