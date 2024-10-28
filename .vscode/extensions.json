@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "davidanson.vscode-markdownlint",
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "sissel.shopify-liquid",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
