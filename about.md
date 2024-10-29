@@ -45,6 +45,7 @@ Together we use these to provide benchmarking and autotuning as a service within
 - [LinkedIn](https://www.linkedin.com/in/brian-kroth-80141546/)
 - [Twitter](https://twitter.com/bpkrothGeek)
 - [Google Scholar](https://scholar.google.com/citations?user=zH-egvYAAAA)
+- [arXiv](https://arxiv.org/search/?searchtype=author&query=Kroth%2C+B)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/people/bpkroth/)
 - [ORCiD](https://orcid.org/0000-0002-5108-6743)
 - [CV](https://pages.cs.wisc.edu/~bpkroth/cv/cv.pdf)
