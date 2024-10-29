@@ -11,18 +11,21 @@ date: 2024-10-28 20:36:00 +0000
 Welcome to my tiny Github Pages site.
 I'm using this site to host little blog articles on technie related things and whatnot.
 
+If you want to comment on them for some reason, umm, I guess open a PR or email or Twitter me or something?
+<small>(I didn't think hard about that feature yet.)</small>
+
 ## Recent Posts
 
 {% for post in site.posts limit:10 %}
 - [{{ post.title }}]({{ post.url }})
   
-  Categories: {{ post.categories | join: ', ' }}
-
   Date: {{ post.date | date: "%Y-%m-%d" }}
+
+  Categories: {{ post.categories | join: ', ' }}
 
   Summary:
 
-  > {{ post.content | strip_html | markdownify | truncatewords: 50 }}
+  > {{ post.content | strip_html | markdownify | truncatewords: 32 }}
 {% endfor %}
 
 - [More Posts ...]({{ site.baseurl }}/categories/)
