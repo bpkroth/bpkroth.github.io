@@ -10,3 +10,5 @@ vendor
 
 # ruby files
 Gemfile.lock
+
+tmp/
