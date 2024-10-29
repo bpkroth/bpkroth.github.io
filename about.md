@@ -17,6 +17,8 @@ I'm based in [Madison, WI](https://en.wikipedia.org/wiki/Madison,_Wisconsin) whe
 Prior to that I was a [Systems Administrator](https://cae.wisc.edu/~bpkroth) at the [College of Engineering](https://engr.wisc.edu/) at UW-Madison, where I was also a [student](https://cs.wisc.edu/~bpkroth) in the department of [Computer Sciences](https://cs.wisc.edu).
 I also worked on the setting up the [CloudLab](https://cloudlab.us) testbed site there.
 
+You can find my (probably out of date) CV [here](https://pages.cs.wisc.edu/~bpkroth/cv/cv.pdf).
+
 ### Interests
 
 I've long been primarily a Linux person, but am a bit of a jack of all trades after more than two decades in industry.
