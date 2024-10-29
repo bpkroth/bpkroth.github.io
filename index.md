@@ -28,4 +28,4 @@ If you want to comment on them for some reason, umm, I guess open a PR or email 
   > {{ post.content | strip_html | markdownify | truncatewords: 32 }}
 {% endfor %}
 
-- [More Posts ...]({{ site.baseurl }}/categories/)
+- [More Posts ...](/categories.md)
