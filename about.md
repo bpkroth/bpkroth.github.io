@@ -10,9 +10,9 @@ This is my simple Github Pages site I'm using to host little blog articles on te
 
 ## Work
 
-I'm a Prinicple Research Software Development Engineer (RSDE) at Microsoft's [Gray Systems Lab](https://aka.ms/gsl), an applied research group inside [Azure Data](https://azure.microsoft.com/) where I.
+I'm a Principle Research Software Development Engineer (RSDE) at Microsoft's [Gray Systems Lab](https://aka.ms/gsl), an applied research group inside [Azure Data](https://azure.microsoft.com/).
 
-I'm based in [Madison, WI](https://en.wikipedia.org/wiki/Madison,_Wisconsin) where I work with and mentor a collection of professors and students from the [University of Wisconsin-Madison](https://www.wisc.edu).
+I'm based in [Madison, WI](https://en.wikipedia.org/wiki/Madison,_Wisconsin) where I  have the pleasure to work with and mentor a collection of professors and students from the [University of Wisconsin-Madison](https://www.wisc.edu) in order to analyze, develop, and eventually deploy new systems technologies, techniques, policies, etc. into products Azure Data.
 
 Prior to that I was a [Systems Administrator](https://cae.wisc.edu/~bpkroth) at the [College of Engineering](https://engr.wisc.edu/) at UW-Madison, where I was also a [student](https://cs.wisc.edu/~bpkroth) in the department of [Computer Sciences](https://cs.wisc.edu).
 I also worked on the setting up the [CloudLab](https://cloudlab.us) testbed site there.
