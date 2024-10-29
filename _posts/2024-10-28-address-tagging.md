@@ -27,6 +27,15 @@ What happens is that the first byte (8-bits) of the address will be automaticall
 
 The remaining bits are still used by the OS to determine whether the address is a kernel or userspace address.
 
+## Why?
+
+The main reason for this is to provide a way to add metadata to the address.
+
+Why would we want to do that?
+Well, it can be used for implementing reference counting, bounds checking, or other security features without having to modify the application to add extra mask/unmask operations everytime we need to derefence the pointer.
+
+Anyways, not really realted to anything I'm working on currently, but kinda interesting.
+
 ## See Also
 
 - [Linux 6.12-rc5 Disabling Intel's Linear Address Masking "LAM" Due To Security Concerns](https://www.phoronix.com/news/Linux-Disabling-Intel-LAM)
