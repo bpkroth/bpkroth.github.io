@@ -47,3 +47,4 @@ Together we use these to provide benchmarking and autotuning as a service within
 - [Google Scholar](https://scholar.google.com/citations?user=zH-egvYAAAA)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/people/bpkroth/)
 - [ORCiD](https://orcid.org/0000-0002-5108-6743)
+- [CV](https://pages.cs.wisc.edu/~bpkroth/cv/cv.pdf)
