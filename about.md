@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi!  I'm Brian Kroth.
 
-This is my simple Github Pages site I'm using to host little blog articles on technie related things and whatnot.
+This is my simple Github Pages site I'm using to host little blog articles on techie related things and whatnot.
 
 ## Work
 
@@ -35,7 +35,7 @@ I'm interested in a variety of things, including:
 - Benchmarking
 
 I've dabbled in a variety of these areas with a touch of "ML for Systems" in the last number of years.
-But in general, I like going deep, measure first, and using those insights to make things more stable, effecient, fast, etc.
+But in general, I like going deep, measure first, and using those insights to make things more stable, efficient, fast, etc.
 
 I am one of the original developers and maintainers of the [MLOS](https://github.com/microsoft/MLOS) project and also help maintain [benchbase](https://github.com/cmu-db/benchbase).
 Together we use these to provide benchmarking and autotuning as a service within Azure Data.
