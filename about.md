@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="_assets/offsite-headshot.jpg" alt="Brian Kroth" style="width: 200px; float: right; margin-left: 10px; margin-bottom: 10px;">
+
 Hi!  I'm Brian Kroth.
 
 This is my simple Github Pages site I'm using to host little blog articles on techie related things and whatnot.
@@ -39,6 +41,11 @@ But in general, I like going deep, measure first, and using those insights to ma
 
 I am one of the original developers and maintainers of the [MLOS](https://github.com/microsoft/MLOS) project and also help maintain [benchbase](https://github.com/cmu-db/benchbase).
 Together we use these to provide benchmarking and autotuning as a service within Azure Data.
+
+## Personal
+
+Outside of work, I'm an active geek and parent.
+I enjoy sci-fi, reading, a variety of podcasts, biking, running, hiking, camping, canoeing, motorcycles, cooking, music, cosplay, and more.
 
 ## See Also
 
