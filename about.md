@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="_assets/offsite-headshot.jpg" alt="Brian Kroth" style="width: 200px; float: right; margin-left: 10px; margin-bottom: 10px;">
+<img src="/assets/images/offsite-headshot.jpg" alt="Brian Kroth" style="width: 200px; float: right; margin-left: 10px; margin-bottom: 10px;">
 
 Hi!  I'm Brian Kroth.
 
