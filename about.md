@@ -10,7 +10,7 @@ This is my simple Github Pages site I'm using to host little blog articles on te
 
 ## Work
 
-I'm a Principle Research Software Development Engineer (RSDE) at Microsoft's [Gray Systems Lab](https://aka.ms/gsl), an applied research group inside [Azure Data](https://azure.microsoft.com/).
+I'm a Principal Research Software Development Engineer (RSDE) at Microsoft's [Gray Systems Lab](https://aka.ms/gsl), an applied research group inside [Azure Data](https://azure.microsoft.com/).
 I also have a version of this for more [internal topics](https://aka.ms/bpkroth/wiki) (and almost certainly less polished).
 
 I'm based in [Madison, WI](https://en.wikipedia.org/wiki/Madison,_Wisconsin) where I  have the pleasure to work with and mentor a collection of professors and students from the [University of Wisconsin-Madison](https://www.wisc.edu) in order to analyze, develop, and eventually deploy new systems technologies, techniques, policies, etc. into products Azure Data.
