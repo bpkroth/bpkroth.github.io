@@ -11,6 +11,8 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
+	"onCreateCommand": "sudo -n apt-get update && sudo -n apt-get install -y vim nodejs",
+
 	// Uncomment the next line to run commands after the container is created.
 	"postCreateCommand": "bundle exec jekyll --version",
 
