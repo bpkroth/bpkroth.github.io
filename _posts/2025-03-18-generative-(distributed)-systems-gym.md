@@ -76,6 +76,8 @@ Rather than just generating one system, why not generate a whole set of systems?
 
 Could we also pit them against one another in a sort of generative systems gym, perhaps using genetic algorithms to search for the best system according to the original design goals?
 
+> Enter [MLOS](https://aka.ms/mlos) for evaluation and optimization of the systems (thesis bias at work here).
+
 This could be a really interesting way to explore the design space of systems and see how different design choices impact the performance, reliability, and other characteristics of the system.
 
 ## Conclusion
