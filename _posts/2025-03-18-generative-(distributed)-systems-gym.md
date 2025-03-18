@@ -17,8 +17,8 @@ I think it's something about the point, click, drag, etc. style of work.
 
 (
 There's a reason I write these musings in more or less plain text markdown.
-In fact I used write my slide decks in $\LaTeX$ [Beamer](https://ctan.org/pkg/beamer), but the interactive editing wasn't quite there at the time and my advisor preferred PowerPoint or Google Slides.)
-> Note to self, revisit this in the context of the "new" $\LaTeX$ editor [Overleaf](https://www.overleaf.com/)
+In fact I used write my slide decks in $$\LaTeX$$ [Beamer](https://ctan.org/pkg/beamer), but the interactive editing wasn't quite there at the time and my advisor preferred PowerPoint or Google Slides.)
+> Note to self, revisit this in the context of the "new" $$\LaTeX$$ editor [Overleaf](https://www.overleaf.com/)
 
 There's something far more pleasing about writing in a text editor and then having the computer do the formatting for me.
 It's like programming the document rather than just writing it.

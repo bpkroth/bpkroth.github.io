@@ -37,9 +37,17 @@ gh_edit_repository: "https://github.com/bpkroth/bpkroth.github.io"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
+#kramdown:
+#  math_engine: katex
+
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml", "README.md", "_drafts/*" ]
+
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jektex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
