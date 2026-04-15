@@ -12,10 +12,14 @@ This is my simple Github Pages site I'm using to host little blog articles on te
 
 ## Work
 
-I'm a Principal Research Software Development Engineer (RSDE) at Microsoft's [Gray Systems Lab](https://aka.ms/gsl), an applied research group inside [Azure Data](https://azure.microsoft.com/).
-I also have a version of this for more [internal topics](https://aka.ms/bpkroth/wiki) (and almost certainly less polished).
+I am a software engineer and researcher in the area of systems software, with a focus on resource efficiency, performance, benchmarking, and autotuning.
 
-I'm based in [Madison, WI](https://en.wikipedia.org/wiki/Madison,_Wisconsin) where I  have the pleasure to work with and mentor a collection of professors and students from the [University of Wisconsin-Madison](https://www.wisc.edu) in order to analyze, develop, and eventually deploy new systems technologies, techniques, policies, etc. into products Azure Data.
+I recently joined [Sema4.ai](https://sema4.ai) as a [Principal Software Engineer](https://www.sema4.ai/careers/positions/principal-software-engineer) in their [Data Science Platform](https://www.sema4.ai/careers/positions/principal-software-engineer) team, where I will be working on building out the systems and data management platform and tools to support the data science and machine learning efforts across the company.
+
+Previously I was Principal Research Software Development Engineer (RSDE) at Microsoft's [Gray Systems Lab](https://aka.ms/gsl), an applied research group inside [Azure Data](https://azure.microsoft.com/).
+I also have a version of this for more [internal topics](https://aka.ms/bpkroth/wiki) there (and almost certainly less polished).
+
+I'm based in [Madison, WI](https://en.wikipedia.org/wiki/Madison,_Wisconsin) where I  have the pleasure to work with and mentor a collection of professors and students from the [University of Wisconsin-Madison](https://www.wisc.edu) in order to analyze, develop, and eventually deploy new systems technologies, techniques, policies, etc.
 
 Prior to that I was a [Systems Administrator](https://cae.wisc.edu/~bpkroth) at the [College of Engineering](https://engr.wisc.edu/) at UW-Madison, where I was also a [student](https://cs.wisc.edu/~bpkroth) in the department of [Computer Sciences](https://cs.wisc.edu).
 I also worked on the setting up the [CloudLab](https://cloudlab.us) testbed site there.

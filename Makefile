@@ -1,8 +1,9 @@
 all: build test
-	
+
 build:
+	bundle install
 	bundle exec jekyll build
-	
+
 deps:
 	@hash linklint || (sudo apt-get update && sudo apt-get install linklint)
 
