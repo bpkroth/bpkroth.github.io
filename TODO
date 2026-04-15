@@ -1,0 +1,2 @@
+- [ ] pre-commit checks for mdformat, shformat, link lints, etc.
+- [ ] editorconfig

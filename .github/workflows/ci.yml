@@ -4,8 +4,8 @@ on:
   push:
     branches: ["main"]
   pull_request:
-  schedule: # Run every day
-    - cron: '0 0 * * *'
+  schedule: # Run regularly on weekends too
+    - cron: '0 0 * * Sun'
 
 jobs:
   # Build job
